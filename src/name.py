@@ -19,6 +19,8 @@ def load_last_names():
     return null
 
 def choose_random_name(names):
+    # Read first names from tuple
     # Choose a random first name
+    # Read last names from tuple
     # Choose a random last name
     return ""
